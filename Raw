@@ -1,0 +1,82 @@
+{
+  "WBUI2": {
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": false,
+        "HideIconAfter": 60,
+        "IconURL": "https://www.dropbox.com/scl/fi/h3ljme3wo4guuoqus3rx4/Only-Human-Servers-Banner.png?rlkey=jly2k8b9lp3rew4uakfbcd9pi&dl=0",
+        "DisableIconText": false,
+        "IconPosition": 0,
+        "IconTextColor": 0,
+        "OpenOnStart": true,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 12
+      },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 1,
+          "buttontext": "Welcome",
+          "title1": "Thanks for installing WBUI2!",
+          "text1": "This mod is in an early stage.\nYou can expect bugs!\n\n\nThis UI is unedited. Pls contact an Admin.\n\nAre you an Admin?\nPls click on the buttons down below to get to the Wiki page for a setup guide. For Support pls join the discord\n\nYou can find a simple explanation in the settings tab.",
+          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+        }
+      },
+      {
+        "tab2": {
+          "layout": 2,
+          "buttontext": "Settings",
+          "title1": "INI settings:",
+          "text1": "Welcome",
+          "title2": "JSON settings:",
+          "text2": "Superman\"\n\nBalls",
+          "imageurl": "https://www.dropbox.com/scl/fi/h3ljme3wo4guuoqus3rx4/Only-Human-Servers-Banner.png?rlkey=jly2k8b9lp3rew4uakfbcd9pi&dl=0"
+        }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Discord",
+          "url": "https://discord.gg/UJ3EFmER2R"
+        }
+      },
+      {
+        "link2": {
+          "text": "Strip",
+          "url": "https://buy.stripe.com/5kAg1NfKM9mC968cMZ"
+        }
+      },
+      {
+        "link3": {
+          "text": "CurseForge",
+          "url": "https://www.curseforge.com/ark-survival-ascended/mods/wbui2"
+        }
+      },
+      {
+        "link4": {
+          "text": "JSON-Validator",
+          "url": "https://jsonlint.com"
+        }
+      },
+      {
+        "link5": {
+          "text": "Github",
+          "url": "https://github.com"
+        }
+      },
+      {
+        "link6": {
+          "text": "Imgur",
+          "url": "https://imgur.com"
+        }
+      },
+      {
+        "link7": {
+          "text": "Example JSON",
+          "url": "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/example.json"
+        }
+      }
+    ]
+  }
+}
